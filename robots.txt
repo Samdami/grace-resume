@@ -1,5 +1,4 @@
-# Replace the sitemap URL below with your actual site URL before publishing
-Sitemap: https://your-domain.example/sitemap.xml
+Sitemap: https://graceowonifaari.tech/sitemap.xml
 
 User-agent: *
 Allow: /
